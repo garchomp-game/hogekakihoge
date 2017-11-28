@@ -1,0 +1,31 @@
+html,body{
+  height:100%;
+  width:100%;
+}
+*{
+  color:#000055;
+  font-family: serif;
+}
+a:hover{
+  font-weight: bolder;
+  font-
+  color:
+}
+
+header{
+  height:100px;
+}
+header h1{
+  line-height:100px;
+}
+header a{
+  display:block;
+  color:black;
+  text-decolation:none;
+}
+
+.pallet{
+  position:fixed;
+
+}
+.purple{background-color:#9900ee}
